@@ -1,0 +1,183 @@
+﻿<?xml version="1.0"?>
+<beerlist>
+	<beer
+		sort = "Light"
+		brand = "Stella Artois"
+		price = "26.09"
+		shop = "Novus"
+		country = "Belgium"
+		reviews = "4.1"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Hoegaarden"
+		price = "52.39"
+		shop = "Novus"
+		country = "Belgium"
+		reviews = "4.8"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Heineken"
+		price = "24.99"
+		shop = "Novus"
+		country = "Belgium"
+		reviews = "3.7"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Bud"
+		price = "14.99"
+		shop = "Novus"
+		country = "USA"
+		reviews = "3.6"
+		sale = "Yes"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Estrella Damm Barcelona"
+		price = "29.99"
+		shop = "Novus"
+		country = "Spain"
+		reviews = "4.5"
+		sale = "Yes"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Chernigivske"
+		price = "18.75"
+		shop = "Novus"
+		country = "Ukraine"
+		reviews = "3.2"
+		sale = "Yes"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Dark"
+		brand = "Einbecker"
+		price = "45.01"
+		shop = "OK Wine"
+		country = "Germany"
+		reviews = "4.4"
+		sale = "Yes"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Paulaner"
+		price = "59.11"
+		shop = "OK Wine"
+		country = "Germany"
+		reviews = "2.9"
+		sale = "Yes"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Halne Mocne"
+		price = "22.99"
+		shop = "Novus"
+		country = "Poland"
+		reviews = "4.9"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Amber Ale"
+		brand = "Belhaven"
+		price = "79.23"
+		shop = "Winetime"
+		country = "Scotland"
+		reviews = "1.7"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Ale"
+		brand = "Badger"
+		price = "7.77"
+		shop = "Winetime"
+		country = "England"
+		reviews = "1.2"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Semi-Dark"
+		brand = "Turia Marzen"
+		price = "23.22"
+		shop = "Winetime"
+		country = "Spain"
+		reviews = "2.5"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Franziskaner"
+		price = "47.99"
+		shop = "Beer Market"
+		country = "Germany"
+		reviews = "4.6"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Furst Chlodwig"
+		price = "26.09"
+		shop = "Beer Market"
+		country = "Germany"
+		reviews = "3.4"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Light"
+		brand = "Kalnapilis"
+		price = "36.99"
+		shop = "Beer Market"
+		country = "Lithuania"
+		reviews = "4.1"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Stout"
+		brand = "Westbrook Brewing Co."
+		price = "899.20"
+		shop = "Beerfreak"
+		country = "USA"
+		reviews = "3.3"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "India Pale Ale"
+		brand = "Surly Brewing and Amager Bryghus"
+		price = "219.20"
+		shop = "Beerfreak"
+		country = "Denmark"
+		reviews = "4.2"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+	<beer
+		sort = "Cherry Melomel"
+		brand = "Berryland"
+		price = "63.53"
+		shop = "Beerfreak"
+		country = "Ukraine"
+		reviews = "1.2"
+		sale = "No"
+		volume = "0,5">
+	</beer>
+</beerlist>
