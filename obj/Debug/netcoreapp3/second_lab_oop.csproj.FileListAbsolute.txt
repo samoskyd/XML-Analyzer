@@ -1,0 +1,15 @@
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.csprojAssemblyReference.cache
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.Form1.resources
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.csproj.GenerateResource.cache
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.AssemblyInfoInputs.cache
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.AssemblyInfo.cs
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.csproj.CoreCompileInputs.cache
+C:\Users\Самоскид\source\repos\second_lab_oop\bin\Debug\netcoreapp3.1\second_lab_oop.exe
+C:\Users\Самоскид\source\repos\second_lab_oop\bin\Debug\netcoreapp3.1\second_lab_oop.deps.json
+C:\Users\Самоскид\source\repos\second_lab_oop\bin\Debug\netcoreapp3.1\second_lab_oop.runtimeconfig.json
+C:\Users\Самоскид\source\repos\second_lab_oop\bin\Debug\netcoreapp3.1\second_lab_oop.runtimeconfig.dev.json
+C:\Users\Самоскид\source\repos\second_lab_oop\bin\Debug\netcoreapp3.1\second_lab_oop.dll
+C:\Users\Самоскид\source\repos\second_lab_oop\bin\Debug\netcoreapp3.1\second_lab_oop.pdb
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.dll
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.pdb
+C:\Users\Самоскид\source\repos\second_lab_oop\obj\Debug\netcoreapp3.1\second_lab_oop.genruntimeconfig.cache
